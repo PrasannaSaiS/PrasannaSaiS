@@ -1,93 +1,105 @@
-<h1 align="center">Hi there 👋, I'm Prasanna Sai S</h1>
-<h3 align="center">AI & Data Science Undergraduate | AI Backend Architecture | Full-Stack Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVrcnAwOWowM2VkY3c0cThvenBtdmwzMHAxbHZwMXF6bDdvY3RsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVrcnAwOWowM2VkY3c0cThvenBtdmwzMHAxbHZwMXF6bDdvY3RsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prasanna+%F0%9F%91%8B;I+build+AI+that+actually+ships;LLMs+%7C+Knowledge+Graphs+%7C+Cloud+Native;Currently+debugging+life.exe" alt="Typing SVG" />
+
+<a href="https://linkedin.com/in/prasanna-sai-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/imprachx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://PrasannaSaiS.github.io/portfolio-prasanna"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ox3S02pjWX"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:prasannas1104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+```python
+class Prasanna:
+    def __init__(self):
+        self.role = "AI & Data Science Undergrad"
+        self.location = "Chennai, India 🇮🇳 (open to relocation)"
+        self.focus = ["AI backend architecture", "cloud-native systems", "full-stack ML products"]
+        self.currently_learning = "how to make LLMs behave"
+        self.fun_fact = "shipped a live GCP app before finishing 3rd year"
+
+    def say_hi(self):
+        return "let's build something that doesn't crash in prod 🚀"
+
+me = Prasanna()
+print(me.say_hi())
+```
 
 ---
 
-### 🚀 About Me
+### ⚡ About the human behind the commits
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**, Rajalakshmi Institute of Technology (Anna University) — *Expected 2027*
-- 🧠 Specializing in **AI backend architecture**, **cloud-native application deployment**, and **full-stack software engineering**
-- 🔬 Currently building intelligent systems combining **LLMs, Knowledge Graphs, and cloud infrastructure**
-- 📍 Based in Chennai, India — **open to relocation**
-- 📄 Published IEEE researcher | Competitive prompt engineer
-- 💬 Ask me about: Python backend systems, NLP pipelines, GCP deployments, and AI-driven SaaS products
-
----
-
-### 💼 Internship Experience
-
-**AI Engineering Intern** — Centre for AI, Rajalakshmi Institute of Technology
-*November 2025 – January 2026*
-- Developed intelligent AI backend systems achieving up to **94% accuracy**
-- Built **SkillOne**, a prerequisite-aware learning path generator using Knowledge Graphs, React, and Hugging Face Spaces
+- 🎓 B.Tech **AI & Data Science** @ Rajalakshmi Institute of Technology, Anna University — *Class of 2027*
+- 🧠 I like turning research-y AI ideas into things people can actually click on and use
+- 🛰️ Currently building backend systems that mix **LLMs + Knowledge Graphs + Cloud infra**
+- 📄 Published IEEE author — yes, that happened before I could legally rent a car
+- 🏆 Top 400 finisher, **Google PromptWars: Virtual** — turns out prompting is a competitive sport now
+- 💬 Hit me up about: RAG pipelines, GCP deployments, or why your Docker build keeps failing
 
 ---
 
-### 🛠️ Featured Projects
+### 🚀 Projects I'm proud of
 
-**🎯 SkillOne — Personalized AI Learning Path Generator**
-Full-stack personalized learning SaaS platform that dynamically constructs prerequisite-aware educational maps. Achieved **93% accuracy** in coherence logic and course recommendation pipelines.
-🔗 **Live Demo:** [ Add SkillOne link here ]
+<table>
+<tr>
+<td width="50%">
 
-**🗳️ Path2Poll — Cloud-Native AI Election Assistant**
-Engineered and deployed a live, multi-region web application on **GCP Cloud Run** to streamline complex voter navigation. Architected verification pipelines integrating public APIs (ECI, NVSP, Google Civic API) with LLMs to deliver real-time, location-aware election schedules with **99% system uptime**.
-🔗 **Live Demo:** [ Add Path2Poll link here ]
+**🎯 SkillOne**
+AI-powered learning path generator that builds prerequisite-aware roadmaps so you stop learning things in the wrong order.
+`93% accuracy` in course-recommendation logic.
+
+🔗 [Live Demo](https://prasannasais.github.io/SkillOne-Model)
+
+</td>
+<td width="50%">
+
+**🗳️ Path2Poll**
+Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google Civic APIs with LLMs for real-time voter navigation.
+`99% uptime` because democracy shouldn't 500 error.
+
+🔗 [Live Demo](https://path2poll-720033712420.us-central1.run.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📜 Certifications
 
-- 🏅 **Generative AI for Software Development Professional Certificate** — DeepLearning.AI *(Mar 2026)*
-- 🏅 **Building AI Agents with MCP and Open-Source Inference** — AMD AI Academy *(Feb 2026)*
-- 🏅 **Identity and Access Management with Microsoft Entra** — Microsoft Applied Skills *(Oct 2025)*
+| Certificate | Issuer | Date |
+|---|---|---|
+| Generative AI for Software Development | DeepLearning.AI | Mar 2026 |
+| Building AI Agents with MCP & Open-Source Inference | AMD AI Academy | Feb 2026 |
+| Identity and Access Management with Microsoft Entra | Microsoft Applied Skills | Oct 2025 |
 
----
+### 🏅 Achievements & Research
 
-### 🏆 Achievements & Publications
-
-- 📄 **IEEE Conference Paper:** *"ReSage AI: An AI-Enhanced Resume Screening Framework with Intelligent Content Scoring and Suggestive Feedback Mechanism"* — presented at **ICRTEECT'25** *(October 2025)*
-🔗 **Paper Link:** [ Add IEEE Xplore / DOI link here ]
-- 🥇 Secured a **consecutive Top 400 ranking** in **Google PromptWars: Virtual**
+- 📄 **IEEE Published Paper:** *ReSage AI — An AI-Enhanced Resume Screening Framework with Intelligent Content Scoring and Suggestive Feedback Mechanism*, ICRTEECT'25 (Oct 2025)
+  🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11448669/)
+- 🥇 Consecutive **Top 400** — Google PromptWars: Virtual
 
 ---
 
 ### 🧰 Tech Stack
 
 **Languages & Frameworks**
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **AI / ML & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-%23000000.svg?style=for-the-badge&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-%23000000.svg?style=for-the-badge&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Cloud & Databases**
-
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Developer Tools & DevOps**
-
+**Tools & DevOps**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 **Design**
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:prasannas1104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/prasanna-sai-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PrasannaSaiS"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="[ Add Instagram link here ]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="[ Add Portfolio website link here ]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -102,22 +114,25 @@ Engineered and deployed a live, multi-region web application on **GCP Cloud Run*
   <img src="https://streak-stats.demolab.com/?user=PrasannaSaiS&theme=shadow_green&hide_border=false" width="70%"/>
 </p>
 
-### 🏆 GitHub Trophies
+### 🥷 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrasannaSaiS&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://leetcard.jacoblin.cool/Ox3S02pjWX?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
 </p>
 
-### 🔝 Top Contributed Repo
+
+### ✍️ Random Dev Wisdom
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PrasannaSaiS&limit=5&theme=shadow_green&combine_all_yearly_contributions=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=PrasannaSaiS&icon=7&color=3"/></a>
-</p>
+<div align="center">
 
-<p align="center"><i>Proudly created with ❤️ — profile last updated July 2026</i></p>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=PrasannaSaiS&icon=7&color=3"/></a>
+
+**"It works on my machine" — me, probably, right now**
+
+</div>
