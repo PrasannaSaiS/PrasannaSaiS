@@ -16,7 +16,7 @@
 class Prasanna:
     def __init__(self):
         self.role = "AI & Data Science Undergrad"
-        self.location = "Chennai, India 🇮🇳 (open to relocation)"
+        self.location = "Chennai, India 🇮🇳"
         self.focus = ["AI backend architecture", "cloud-native systems", "full-stack ML products"]
         self.currently_learning = "how to make LLMs behave"
         self.fun_fact = "shipped a live GCP app before finishing 3rd year"
@@ -36,7 +36,6 @@ print(me.say_hi())
 - 🧠 I like turning research-y AI ideas into things people can actually click on and use
 - 🛰️ Currently building backend systems that mix **LLMs + Knowledge Graphs + Cloud infra**
 - 📄 Published IEEE author — yes, that happened before I could legally rent a car
-- 🏆 Top 400 finisher, **Google PromptWars: Virtual** — turns out prompting is a competitive sport now
 - 💬 Hit me up about: RAG pipelines, GCP deployments, or why your Docker build keeps failing
 
 ---
