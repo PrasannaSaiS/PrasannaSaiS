@@ -116,7 +116,7 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 ### 🥷 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ox3S02pjWX?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
+  <img src="https://leetcard.jacoblin.cool/PrasannaSaiS?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
 </p>
 
 
