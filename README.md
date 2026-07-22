@@ -30,23 +30,23 @@ print(me.say_hi())
 
 ---
 
-### ⚡ About the human behind the commits
+### About the human behind the commits
 
-- 🎓 B.Tech **AI & Data Science** @ Rajalakshmi Institute of Technology, Anna University — *Class of 2027*
-- 🧠 I like turning research-y AI ideas into things people can actually click on and use
-- 🛰️ Currently building backend systems that mix **LLMs + Knowledge Graphs + Cloud infra**
-- 📄 Published IEEE author — yes, that happened before I could legally rent a car
-- 💬 Hit me up about: RAG pipelines, GCP deployments, or why your Docker build keeps failing
+-  B.Tech **AI & Data Science** @ Rajalakshmi Institute of Technology, Anna University — *Class of 2027*
+-  I like turning research-y AI ideas into things people can actually click on and use
+-  Currently building backend systems that mix **LLMs + Knowledge Graphs + Cloud infra**
+-  Published IEEE author — yes, that happened before I could legally rent a car
+-  Hit me up about: RAG pipelines, GCP deployments, or why your Docker build keeps failing
 
 ---
 
-### 🚀 Projects I'm proud of
+### Projects I'm proud of
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 SkillOne**
+**SkillOne**
 AI-powered learning path generator that builds prerequisite-aware roadmaps so you stop learning things in the wrong order.
 `93% accuracy` in course-recommendation logic.
 
@@ -55,7 +55,7 @@ AI-powered learning path generator that builds prerequisite-aware roadmaps so yo
 </td>
 <td width="50%">
 
-**🗳️ Path2Poll**
+**Path2Poll**
 Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google Civic APIs with LLMs for real-time voter navigation.
 `99% uptime` because democracy shouldn't 500 error.
 
@@ -67,7 +67,7 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -75,7 +75,7 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 | Building AI Agents with MCP & Open-Source Inference | AMD AI Academy | Feb 2026 |
 | Identity and Access Management with Microsoft Entra | Microsoft Applied Skills | Oct 2025 |
 
-### 🏅 Achievements & Research
+### Achievements & Research
 
 - 📄 **IEEE Published Paper:** *ReSage AI — An AI-Enhanced Resume Screening Framework with Intelligent Content Scoring and Suggestive Feedback Mechanism*, ICRTEECT'25 (Oct 2025)
   🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11448669/)
@@ -83,7 +83,7 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -102,7 +102,7 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=PrasannaSaiS&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" width="49%"/>
@@ -113,14 +113,14 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
   <img src="https://streak-stats.demolab.com/?user=PrasannaSaiS&theme=shadow_green&hide_border=false" width="70%"/>
 </p>
 
-### 🥷 LeetCode Stats
+### LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/PrasannaSaiS?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
 </p>
 
 
-### ✍️ Random Dev Wisdom
+### Random Dev Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
