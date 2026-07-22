@@ -22,7 +22,7 @@ class Prasanna:
         self.fun_fact = "shipped a live GCP app before finishing 3rd year"
 
     def say_hi(self):
-        return "let's build something that doesn't crash in prod 🚀"
+        return "let's build something that doesn't crash in prod"
 
 me = Prasanna()
 print(me.say_hi())
