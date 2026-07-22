@@ -50,7 +50,7 @@ print(me.say_hi())
 AI-powered learning path generator that builds prerequisite-aware roadmaps so you stop learning things in the wrong order.
 `93% accuracy` in course-recommendation logic.
 
-🔗 [Live Demo](https://prasannasais.github.io/SkillOne-Model)
+[Live Demo](https://prasannasais.github.io/SkillOne-Model)
 
 </td>
 <td width="50%">
@@ -59,7 +59,7 @@ AI-powered learning path generator that builds prerequisite-aware roadmaps so yo
 Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google Civic APIs with LLMs for real-time voter navigation.
 `99% uptime` because democracy shouldn't 500 error.
 
-🔗 [Live Demo](https://path2poll-720033712420.us-central1.run.app)
+[Live Demo](https://path2poll-720033712420.us-central1.run.app)
 
 </td>
 </tr>
@@ -77,9 +77,9 @@ Multi-region election assistant on **GCP Cloud Run**, fusing ECI / NVSP / Google
 
 ### Achievements & Research
 
-- 📄 **IEEE Published Paper:** *ReSage AI — An AI-Enhanced Resume Screening Framework with Intelligent Content Scoring and Suggestive Feedback Mechanism*, ICRTEECT'25 (Oct 2025)
-  🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11448669/)
-- 🥇 Consecutive **Top 400** — Google PromptWars: Virtual
+-  **IEEE Published Paper:** *ReSage AI — An AI-Enhanced Resume Screening Framework with Intelligent Content Scoring and Suggestive Feedback Mechanism*, ICRTEECT'25 (Oct 2025)
+   [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11448669/)
+-  Consecutive **Top 400** — Google PromptWars: Virtual
 
 ---
 
